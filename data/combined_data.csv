@@ -1,0 +1,225 @@
+School Name,Region,Starting Median Salary,Mid-Career Median Salary,Mid-Career 10th Percentile Salary,Mid-Career 25th Percentile Salary,Mid-Career 75th Percentile Salary,Mid-Career 90th Percentile Salary,School Type
+"University of California, Berkeley",California,59900.0,112000.0,"$59,500.00","$81,000.00","$149,000.00","$201,000.00",State
+Cal Poly San Luis Obispo,California,57200.0,101000.0,"$55,000.00","$74,700.00","$133,000.00","$178,000.00",State
+University of California at Los Angeles (UCLA),California,52600.0,101000.0,"$51,300.00","$72,500.00","$139,000.00","$193,000.00",State
+"University of California, San Diego (UCSD)",California,51100.0,101000.0,"$51,700.00","$75,400.00","$131,000.00","$177,000.00",State
+"University of California, Davis",California,52300.0,99600.0,"$52,000.00","$71,600.00","$135,000.00","$202,000.00",State
+"University of California, Irvine (UCI)",California,48300.0,96700.0,"$47,800.00","$66,000.00","$123,000.00","$172,000.00",State
+San Jose State University (SJSU),California,53500.0,95600.0,"$50,700.00","$70,500.00","$122,000.00","$156,000.00",State
+"University of California, Santa Barbara (UCSB)",California,50500.0,95000.0,"$51,300.00","$71,200.00","$129,000.00","$173,000.00",Party
+"University of California, Santa Barbara (UCSB)",California,50500.0,95000.0,"$51,300.00","$71,200.00","$129,000.00","$173,000.00",State
+"California State University (CSU), Chico",California,47400.0,88100.0,"$46,800.00","$62,800.00","$122,000.00","$154,000.00",State
+"California State University, Fullerton (CSUF)",California,45700.0,87000.0,"$45,400.00","$62,500.00","$119,000.00","$158,000.00",State
+San Francisco State University (SFSU),California,47300.0,86400.0,"$45,100.00","$62,700.00","$114,000.00","$150,000.00",State
+San Diego State University (SDSU),California,46200.0,85200.0,"$45,500.00","$61,800.00","$116,000.00","$158,000.00",State
+"California State University, Long Beach (CSULB)",California,45100.0,84700.0,"$47,400.00","$62,500.00","$113,000.00","$154,000.00",State
+"California State University, East Bay (CSUEB)",California,49200.0,84300.0,"$46,000.00","$62,400.00","$115,000.00","$155,000.00",State
+"University of California, Santa Cruz (UCSC)",California,44700.0,84100.0,"$46,100.00","$62,000.00","$121,000.00","$165,000.00",State
+"California State University, Sacramento (CSUS)",California,47800.0,82400.0,"$42,900.00","$59,600.00","$111,000.00","$154,000.00",State
+"University of California, Riverside (UCR)",California,46800.0,81300.0,"$37,200.00","$59,900.00","$109,000.00","$134,000.00",State
+"California State University, Northridge (CSUN)",California,45500.0,80400.0,"$44,500.00","$57,800.00","$108,000.00","$153,000.00",State
+"California State University, Dominguez Hills (CSUDH)",California,42700.0,72100.0,"$30,800.00","$47,000.00","$92,200.00","$132,000.00",State
+Humboldt State University,California,42600.0,71300.0,"$36,000.00","$56,300.00","$94,400.00","$117,000.00",State
+Colorado School of Mines,Western,58100.0,106000.0,"$62,200.00","$87,900.00","$142,000.00","$201,000.00",Engineering
+University of Colorado - Boulder (UCB),Western,47100.0,97600.0,"$51,600.00","$69,000.00","$128,000.00","$187,000.00",State
+University of Arizona,Western,47500.0,86100.0,"$44,800.00","$61,700.00","$117,000.00","$160,000.00",State
+University of Washington (UW),Western,48800.0,85300.0,"$47,000.00","$59,800.00","$115,000.00","$149,000.00",State
+Washington State University (WSU),Western,45300.0,84700.0,"$43,600.00","$59,000.00","$113,000.00","$162,000.00",State
+University of Colorado - Denver,Western,46100.0,84400.0,"$46,400.00","$58,600.00","$105,000.00","$144,000.00",State
+Arizona State University (ASU),Western,47400.0,84100.0,"$44,600.00","$60,700.00","$114,000.00","$163,000.00",Party
+Arizona State University (ASU),Western,47400.0,84100.0,"$44,600.00","$60,700.00","$114,000.00","$163,000.00",State
+Oregon State University (OSU),Western,45100.0,83300.0,"$46,900.00","$64,000.00","$113,000.00","$146,000.00",State
+University of Utah,Western,45400.0,83200.0,"$43,000.00","$58,400.00","$116,000.00","$148,000.00",State
+"University of Nevada, Reno (UNR)",Western,46500.0,82900.0,"$41,900.00","$54,600.00","$113,000.00","$143,000.00",State
+University of Idaho,Western,44900.0,82000.0,"$43,000.00","$56,700.00","$104,000.00","$142,000.00",State
+University of New Mexico (UNM),Western,41600.0,81600.0,"$41,800.00","$59,100.00","$105,000.00","$141,000.00",State
+University of Puget Sound,Western,46600.0,81500.0,"$48,900.00","$60,100.00","$104,000.00","$137,000.00",Liberal Arts
+New Mexico State University,Western,44300.0,79500.0,"$37,400.00","$53,800.00","$102,000.00","$131,000.00",State
+Colorado State University (CSU),Western,44800.0,79000.0,"$43,800.00","$57,100.00","$112,000.00","$150,000.00",State
+University of Wyoming (UW),Western,44500.0,78700.0,"$41,500.00","$54,000.00","$105,000.00","$145,000.00",State
+Utah State University,Western,43800.0,78700.0,"$41,600.00","$55,400.00","$101,000.00","$132,000.00",State
+University of Oregon,Western,42200.0,78400.0,"$38,100.00","$56,200.00","$117,000.00","$186,000.00",State
+Montana State University - Bozeman,Western,46600.0,77500.0,"$40,200.00","$58,100.00","$111,000.00","$151,000.00",State
+University of Hawaii,Western,43800.0,76000.0,"$40,400.00","$56,300.00","$104,000.00","$128,000.00",State
+Western Washington University,Western,42700.0,75400.0,"$41,300.00","$56,700.00","$99,200.00","$119,000.00",State
+Idaho State University,Western,44900.0,73400.0,"$35,400.00","$49,600.00","$101,000.00","$143,000.00",State
+"University of Alaska, Anchorage",Western,45900.0,72600.0,"$39,800.00","$56,600.00","$99,300.00","$137,000.00",State
+Lewis & Clark College,Western,38900.0,72600.0,"$38,200.00","$53,400.00","$104,000.00","$140,000.00",Liberal Arts
+University of Montana,Western,37300.0,71900.0,"$37,000.00","$51,500.00","$96,400.00","$138,000.00",State
+"University of Nevada, Las Vegas (UNLV)",Western,45200.0,71600.0,"$39,000.00","$52,400.00","$100,000.00","$128,000.00",State
+Portland State University (PSU),Western,42600.0,70900.0,"$40,700.00","$52,300.00","$94,400.00","$123,000.00",State
+Eastern Washington University,Western,38600.0,70900.0,"$36,000.00","$50,500.00","$93,100.00","$117,000.00",State
+Boise State University (BSU),Western,40800.0,69500.0,"$37,400.00","$48,700.00","$87,500.00","$110,000.00",State
+Evergreen State College,Western,39500.0,63900.0,"$38,800.00","$47,200.00","$91,600.00","$120,000.00",Liberal Arts
+Illinois Institute of Technology (IIT),Midwestern,56000.0,97800.0,"$56,100.00","$77,400.00","$121,000.00","$165,000.00",Engineering
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,52900.0,96100.0,"$48,200.00","$68,900.00","$132,000.00","$177,000.00",Party
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,52900.0,96100.0,"$48,200.00","$68,900.00","$132,000.00","$177,000.00",State
+University of Missouri - Rolla (UMR),Midwestern,57100.0,95800.0,"$67,600.00","$80,400.00","$122,000.00","$166,000.00",State
+South Dakota School of Mines & Technology,Midwestern,55800.0,93400.0,"$71,500.00","$81,900.00","$122,000.00","$147,000.00",Engineering
+University of Michigan,Midwestern,52700.0,93000.0,"$50,900.00","$69,400.00","$128,000.00","$182,000.00",State
+Purdue University,Midwestern,51400.0,90500.0,"$49,900.00","$67,400.00","$121,000.00","$168,000.00",State
+DePauw University,Midwestern,41400.0,88200.0,"$49,500.00","$57,400.00","$133,000.00","$185,000.00",Liberal Arts
+University of Wisconsin (UW) - Madison,Midwestern,48900.0,87800.0,"$47,400.00","$62,400.00","$118,000.00","$170,000.00",State
+St. Olaf College,Midwestern,45300.0,86200.0,"$41,300.00","$61,000.00","$120,000.00","$185,000.00",Liberal Arts
+Michigan State University (MSU),Midwestern,46300.0,85300.0,"$44,200.00","$61,500.00","$119,000.00","$170,000.00",State
+Iowa State University,Midwestern,45400.0,84600.0,"$44,400.00","$60,000.00","$109,000.00","$147,000.00",State
+University of Minnesota,Midwestern,46200.0,84200.0,"$49,000.00","$63,200.00","$112,000.00","$148,000.00",State
+"Indiana University (IU), Bloomington",Midwestern,46300.0,84000.0,"$43,600.00","$60,400.00","$119,000.00","$178,000.00",Party
+"Indiana University (IU), Bloomington",Midwestern,46300.0,84000.0,"$43,600.00","$60,400.00","$119,000.00","$178,000.00",State
+University of Iowa (UI),Midwestern,44700.0,83900.0,"$43,300.00","$61,100.00","$116,000.00","$163,000.00",Party
+University of Iowa (UI),Midwestern,44700.0,83900.0,"$43,300.00","$61,100.00","$116,000.00","$163,000.00",State
+Ohio State University (OSU),Midwestern,44900.0,83700.0,"$45,500.00","$60,700.00","$116,000.00","$162,000.00",State
+University of Illinois at Chicago,Midwestern,47500.0,81700.0,"$44,700.00","$58,800.00","$110,000.00","$146,000.00",State
+University of Kansas,Midwestern,42400.0,81600.0,"$44,800.00","$57,200.00","$115,000.00","$156,000.00",State
+University of Missouri - Columbia,Midwestern,41700.0,81000.0,"$43,500.00","$57,100.00","$111,000.00","$156,000.00",State
+University of Nebraska,Midwestern,45700.0,80900.0,"$42,200.00","$56,600.00","$113,000.00","$156,000.00",State
+Northern Illinois University (NIU),Midwestern,43600.0,80800.0,"$43,900.00","$60,200.00","$111,000.00","$161,000.00",State
+University of North Dakota,Midwestern,44000.0,80600.0,"$43,400.00","$56,400.00","$111,000.00","$157,000.00",State
+Kansas State University (KSU),Midwestern,43300.0,79000.0,"$37,200.00","$54,100.00","$106,000.00","$138,000.00",State
+University of Wisconsin (UW) - Platteville,Midwestern,45800.0,78500.0,"$48,400.00","$61,200.00","$100,000.00","$139,000.00",State
+North Dakota State University (NDSU),Midwestern,45100.0,77800.0,"$39,000.00","$55,800.00","$100,000.00","$123,000.00",State
+Wayne State University,Midwestern,42800.0,76100.0,"$40,100.00","$56,200.00","$101,000.00","$139,000.00",State
+University of Toledo,Midwestern,43100.0,75900.0,"$40,100.00","$54,100.00","$100,000.00","$133,000.00",State
+University of Wisconsin (UW) - Whitewater,Midwestern,40800.0,75500.0,"$38,200.00","$53,500.00","$99,300.00","$150,000.00",State
+Minnesota State University - Mankato,Midwestern,43300.0,74700.0,"$39,500.00","$53,800.00","$95,700.00","$140,000.00",State
+University of Wisconsin (UW) - Milwaukee,Midwestern,42300.0,74600.0,"$40,600.00","$54,000.00","$93,700.00","$123,000.00",State
+Western Michigan University (WMU),Midwestern,42300.0,73800.0,"$40,100.00","$52,500.00","$103,000.00","$135,000.00",State
+South Dakota State University (SDSU),Midwestern,41100.0,73500.0,"$34,100.00","$49,900.00","$99,400.00","$129,000.00",State
+Ohio University,Midwestern,42200.0,73400.0,"$36,600.00","$52,800.00","$106,000.00","$150,000.00",Party
+Ohio University,Midwestern,42200.0,73400.0,"$36,600.00","$52,800.00","$106,000.00","$150,000.00",State
+Illinois State University,Midwestern,42000.0,73400.0,"$39,100.00","$55,200.00","$105,000.00","$142,000.00",State
+Cleveland State University,Midwestern,43500.0,73100.0,"$39,500.00","$51,600.00","$97,000.00","$137,000.00",State
+University of Nebraska at Omaha,Midwestern,41500.0,72600.0,"$39,500.00","$54,400.00","$97,400.00","$126,000.00",State
+Southern Illinois University Carbondale,Midwestern,43000.0,72500.0,"$38,300.00","$51,300.00","$99,300.00","$139,000.00",State
+Eastern Michigan University,Midwestern,40300.0,72100.0,"$37,900.00","$52,800.00","$95,400.00","$135,000.00",State
+Bowling Green State University,Midwestern,39800.0,72100.0,"$38,200.00","$51,800.00","$101,000.00","$146,000.00",State
+St. Cloud State University,Midwestern,41800.0,71400.0,"$38,700.00","$49,400.00","$101,000.00","$126,000.00",State
+University of Wisconsin (UW) - Parkside,Midwestern,40700.0,71400.0,"$40,900.00","$53,100.00","$84,900.00","$119,000.00",State
+University of Akron,Midwestern,41100.0,70300.0,"$40,600.00","$53,300.00","$95,200.00","$127,000.00",State
+Missouri State University (MSU),Midwestern,36100.0,69500.0,"$33,300.00","$46,900.00","$102,000.00","$134,000.00",State
+University of Wisconsin (UW) - La Crosse,Midwestern,42200.0,69300.0,"$37,500.00","$47,200.00","$93,100.00","$133,000.00",State
+University of Wisconsin (UW) - Stout,Midwestern,43600.0,68300.0,"$40,900.00","$50,600.00","$91,600.00","$136,000.00",State
+University of Missouri - St. Louis (UMSL),Midwestern,41400.0,67100.0,"$36,800.00","$49,600.00","$97,600.00","$144,000.00",State
+University of Wisconsin (UW) - Oshkosh,Midwestern,39300.0,66400.0,"$37,700.00","$49,700.00","$90,100.00","$138,000.00",State
+University of Missouri - Kansas City (UMKC),Midwestern,38900.0,65800.0,"$36,300.00","$48,100.00","$95,800.00","$124,000.00",State
+University of Wisconsin (UW) - Eau Claire,Midwestern,41400.0,64800.0,"$35,000.00","$47,300.00","$93,100.00","$125,000.00",State
+Ball State University (BSU),Midwestern,39100.0,64500.0,"$35,500.00","$48,200.00","$89,300.00","$128,000.00",State
+University of Wisconsin (UW) - Stevens Point,Midwestern,39800.0,64000.0,"$38,400.00","$45,100.00","$95,400.00","$128,000.00",State
+Kent State University,Midwestern,38700.0,62600.0,"$36,100.00","$45,800.00","$87,000.00","$124,000.00",State
+University of Wisconsin (UW) - Green Bay,Midwestern,35800.0,60600.0,"$35,500.00","$46,800.00","$81,800.00","$102,000.00",State
+Pittsburg State University,Midwestern,40400.0,58200.0,"$25,600.00","$46,000.00","$84,600.00","$117,000.00",State
+Georgia Institute of Technology,Southern,58300.0,106000.0,"$67,200.00","$85,200.00","$137,000.00","$183,000.00",Engineering
+University of Virginia (UVA),Southern,52700.0,103000.0,"$52,200.00","$71,800.00","$146,000.00","$215,000.00",State
+Texas A&M University,Southern,49700.0,96100.0,"$51,100.00","$71,300.00","$131,000.00","$171,000.00",State
+Virginia Polytechnic Institute and State University (Virginia Tech),Southern,53500.0,95400.0,"$50,600.00","$71,400.00","$124,000.00","$163,000.00",Engineering
+"University of Maryland, College Park",Southern,52000.0,95000.0,"$50,400.00","$68,300.00","$126,000.00","$166,000.00",Party
+"University of Maryland, College Park",Southern,52000.0,95000.0,"$50,400.00","$68,300.00","$126,000.00","$166,000.00",State
+University of Richmond,Southern,48600.0,94600.0,"$44,500.00","$59,400.00","$151,000.00","$211,000.00",Liberal Arts
+University of Texas (UT) - Austin,Southern,49700.0,93900.0,"$50,100.00","$67,400.00","$129,000.00","$188,000.00",Party
+University of Texas (UT) - Austin,Southern,49700.0,93900.0,"$50,100.00","$67,400.00","$129,000.00","$188,000.00",State
+University of Florida (UF),Southern,47100.0,87900.0,"$45,400.00","$62,900.00","$120,000.00","$172,000.00",Party
+University of Florida (UF),Southern,47100.0,87900.0,"$45,400.00","$62,900.00","$120,000.00","$172,000.00",State
+Louisiana State University (LSU),Southern,46900.0,87800.0,"$43,700.00","$61,300.00","$120,000.00","$165,000.00",Party
+Louisiana State University (LSU),Southern,46900.0,87800.0,"$43,700.00","$61,300.00","$120,000.00","$165,000.00",State
+George Mason University,Southern,47800.0,86900.0,"$51,300.00","$67,200.00","$114,000.00","$150,000.00",State
+Clemson University,Southern,48400.0,86000.0,"$50,500.00","$61,800.00","$111,000.00","$150,000.00",State
+University of Georgia (UGA),Southern,44100.0,86000.0,"$43,100.00","$57,800.00","$118,000.00","$164,000.00",Party
+University of Georgia (UGA),Southern,44100.0,86000.0,"$43,100.00","$57,800.00","$118,000.00","$164,000.00",State
+Auburn University,Southern,45400.0,84700.0,"$45,400.00","$62,700.00","$109,000.00","$145,000.00",State
+University of Delaware,Southern,45900.0,84500.0,"$44,500.00","$64,000.00","$119,000.00","$165,000.00",State
+North Carolina State University (NCSU),Southern,47200.0,83300.0,"$49,200.00","$64,800.00","$112,000.00","$153,000.00",State
+University of Oklahoma,Southern,44700.0,82900.0,"$41,200.00","$60,300.00","$114,000.00","$167,000.00",State
+University of Arkansas,Southern,44100.0,82800.0,"$43,200.00","$60,700.00","$113,000.00","$160,000.00",State
+University of Alabama at Huntsville (UAH),Southern,43100.0,82700.0,"$46,100.00","$67,800.00","$106,000.00","$132,000.00",State
+University of North Carolina at Chapel Hill (UNCH),Southern,42900.0,81500.0,"$43,400.00","$57,500.00","$117,000.00","$155,000.00",State
+"University of Alabama, Tuscaloosa",Southern,41300.0,81400.0,"$40,100.00","$56,500.00","$117,000.00","$161,000.00",Party
+"University of Alabama, Tuscaloosa",Southern,41300.0,81400.0,"$40,100.00","$56,500.00","$117,000.00","$161,000.00",State
+University of Texas at Arlington (UTA),Southern,45400.0,80800.0,"$46,400.00","$61,200.00","$106,000.00","$138,000.00",State
+Oklahoma State University,Southern,42800.0,80700.0,"$40,100.00","$56,500.00","$114,000.00","$151,000.00",State
+Tennessee Technological University,Southern,46200.0,80000.0,"$42,100.00","$62,600.00","$99,500.00","$121,000.00",Engineering
+University of Houston (UH),Southern,46000.0,79900.0,"$42,000.00","$56,200.00","$106,000.00","$141,000.00",State
+University of Mississippi,Southern,41400.0,79700.0,"$40,400.00","$53,500.00","$108,000.00","$186,000.00",Party
+University of Mississippi,Southern,41400.0,79700.0,"$40,400.00","$53,500.00","$108,000.00","$186,000.00",State
+Lamar University,Southern,46500.0,79400.0,"$38,700.00","$51,600.00","$114,000.00","$158,000.00",State
+Mississippi State University (MSU),Southern,44500.0,79300.0,"$43,300.00","$58,800.00","$108,000.00","$151,000.00",State
+University of Kentucky (UK),Southern,42800.0,78300.0,"$43,000.00","$57,300.00","$107,000.00","$149,000.00",State
+West Virginia University (WVU),Southern,43100.0,78100.0,"$39,700.00","$55,700.00","$106,000.00","$141,000.00",Party
+West Virginia University (WVU),Southern,43100.0,78100.0,"$39,700.00","$55,700.00","$106,000.00","$141,000.00",State
+University of Maryland Baltimore County (UMBC),Southern,47000.0,77800.0,"$46,900.00","$59,100.00","$105,000.00","$130,000.00",State
+University of Louisiana (UL) at Lafayette,Southern,41100.0,76300.0,"$42,000.00","$54,500.00","$107,000.00","$163,000.00",State
+Florida International University (FIU),Southern,43200.0,75500.0,"$40,500.00","$55,800.00","$98,200.00","$136,000.00",State
+University of Tennessee,Southern,43800.0,74600.0,"$41,900.00","$53,200.00","$106,000.00","$153,000.00",Party
+University of Tennessee,Southern,43800.0,74600.0,"$41,900.00","$53,200.00","$106,000.00","$153,000.00",State
+University of North Carolina at Charlotte (UNCC),Southern,43100.0,74000.0,"$38,200.00","$53,200.00","$99,500.00","$133,000.00",State
+Georgia State University,Southern,41800.0,74000.0,"$43,000.00","$55,300.00","$99,900.00","$145,000.00",State
+Florida State University (FSU),Southern,42100.0,73000.0,"$39,600.00","$52,800.00","$107,000.00","$156,000.00",Party
+Florida State University (FSU),Southern,42100.0,73000.0,"$39,600.00","$52,800.00","$107,000.00","$156,000.00",State
+University of Texas at El Paso (UTEP),Southern,43400.0,72100.0,"$37,700.00","$50,400.00","$99,500.00","$133,000.00",State
+University of Central Florida (UCF),Southern,42600.0,71700.0,"$39,500.00","$51,500.00","$98,400.00","$125,000.00",State
+University of South Carolina,Southern,40000.0,71700.0,"$36,300.00","$49,900.00","$98,400.00","$131,000.00",State
+Florida Atlantic University (FAU),Southern,42600.0,71100.0,"$40,700.00","$53,000.00","$99,500.00","$137,000.00",State
+University of South Florida (USF),Southern,41100.0,71100.0,"$39,600.00","$51,500.00","$98,100.00","$131,000.00",State
+University of Texas at San Antonio (UTSA),Southern,42500.0,70700.0,"$39,100.00","$49,800.00","$92,700.00","$121,000.00",State
+University of Alabama at Birmingham (UAB),Southern,39200.0,70100.0,"$43,000.00","$53,400.00","$91,400.00","$125,000.00",State
+University of Memphis (U of M),Southern,41400.0,69700.0,"$36,100.00","$49,100.00","$93,500.00","$127,000.00",State
+Appalachian State University,Southern,40400.0,69100.0,"$37,200.00","$50,400.00","$90,800.00","$115,000.00",State
+Virginia Commonwealth University (VCU),Southern,42000.0,68400.0,"$37,400.00","$51,900.00","$100,000.00","$123,000.00",State
+East Carolina University (ECU),Southern,40200.0,67500.0,"$38,400.00","$52,000.00","$98,700.00","$151,000.00",State
+Western Carolina University,Southern,36900.0,66600.0,"$39,000.00","$49,500.00","$94,400.00","$133,000.00",State
+University of North Carolina at Wilmington (UNCW),Southern,37500.0,64400.0,"$32,100.00","$46,600.00","$97,100.00","$129,000.00",State
+Arkansas State University (ASU),Southern,38700.0,63300.0,"$33,600.00","$45,300.00","$83,900.00","$118,000.00",State
+Tarleton State University (TSU),Southern,40800.0,62400.0,"$32,100.00","$47,400.00","$80,400.00","$126,000.00",State
+Morehead State University,Southern,34800.0,60600.0,"$34,300.00","$46,500.00","$72,000.00","$91,300.00",State
+Austin Peay State University,Southern,37700.0,59200.0,"$32,200.00","$40,500.00","$73,900.00","$96,200.00",State
+Dartmouth College,Northeastern,58000.0,134000.0,"$63,100.00","$90,200.00","$234,000.00","$321,000.00",Ivy League
+Princeton University,Northeastern,66500.0,131000.0,"$68,900.00","$100,000.00","$190,000.00","$261,000.00",Ivy League
+Massachusetts Institute of Technology (MIT),Northeastern,72200.0,126000.0,"$76,800.00","$99,200.00","$168,000.00","$220,000.00",Engineering
+Yale University,Northeastern,59100.0,126000.0,"$58,000.00","$80,600.00","$198,000.00","$326,000.00",Ivy League
+Harvard University,Northeastern,63400.0,124000.0,"$54,800.00","$86,200.00","$179,000.00","$288,000.00",Ivy League
+University of Pennsylvania,Northeastern,60900.0,120000.0,"$55,900.00","$79,200.00","$192,000.00","$282,000.00",Ivy League
+"Polytechnic University of New York, Brooklyn",Northeastern,62400.0,114000.0,"$66,800.00","$94,300.00","$143,000.00","$190,000.00",Engineering
+Worcester Polytechnic Institute (WPI),Northeastern,61000.0,114000.0,"$80,000.00","$91,200.00","$137,000.00","$180,000.00",Engineering
+Carnegie Mellon University (CMU),Northeastern,61800.0,111000.0,"$63,300.00","$80,100.00","$150,000.00","$209,000.00",Engineering
+Rensselaer Polytechnic Institute (RPI),Northeastern,61100.0,110000.0,"$71,600.00","$85,500.00","$140,000.00","$182,000.00",Engineering
+Cornell University,Northeastern,60300.0,110000.0,"$56,800.00","$79,800.00","$160,000.00","$210,000.00",Ivy League
+Bucknell University,Northeastern,54100.0,110000.0,"$62,800.00","$80,600.00","$156,000.00","$251,000.00",Liberal Arts
+Brown University,Northeastern,56200.0,109000.0,"$55,400.00","$74,400.00","$159,000.00","$228,000.00",Ivy League
+Colgate University,Northeastern,52800.0,108000.0,"$60,000.00","$76,700.00","$167,000.00","$265,000.00",Liberal Arts
+Columbia University,Northeastern,59400.0,107000.0,"$50,300.00","$71,900.00","$161,000.00","$241,000.00",Ivy League
+Lafayette College,Northeastern,53900.0,107000.0,"$70,600.00","$79,300.00","$144,000.00","$204,000.00",Liberal Arts
+Stevens Institute of Technology,Northeastern,60600.0,105000.0,"$68,700.00","$81,900.00","$138,000.00","$185,000.00",Engineering
+"Wesleyan University (Middletown, Connecticut)",Northeastern,46500.0,97900.0,"$42,000.00","$62,500.00","$126,000.00","$215,000.00",Liberal Arts
+Wentworth Institute of Technology,Northeastern,53000.0,96700.0,"$55,200.00","$74,000.00","$117,000.00","$153,000.00",Engineering
+Binghamton University,Northeastern,53600.0,95900.0,"$50,900.00","$71,200.00","$146,000.00","$201,000.00",State
+Union College,Northeastern,47200.0,95800.0,"$48,700.00","$75,200.00","$135,000.00","$230,000.00",Liberal Arts
+Stony Brook University,Northeastern,49500.0,93000.0,"$47,200.00","$67,100.00","$129,000.00","$181,000.00",State
+State University of New York (SUNY) at Albany,Northeastern,44500.0,92200.0,"$47,000.00","$63,100.00","$135,000.00","$209,000.00",Party
+State University of New York (SUNY) at Albany,Northeastern,44500.0,92200.0,"$47,000.00","$63,100.00","$135,000.00","$209,000.00",State
+Rutgers University,Northeastern,50300.0,91800.0,"$48,100.00","$65,100.00","$128,000.00","$176,000.00",State
+University of Connecticut (UConn),Northeastern,48000.0,88800.0,"$46,100.00","$66,400.00","$120,000.00","$162,000.00",State
+University of Massachusetts (UMass) - Amherst,Northeastern,46600.0,88200.0,"$43,100.00","$61,300.00","$122,000.00","$168,000.00",State
+University of Massachusetts (UMass) - Lowell,Northeastern,45400.0,86600.0,"$50,900.00","$65,000.00","$113,000.00","$158,000.00",State
+Pennsylvania State University (PSU),Northeastern,49900.0,85700.0,"$46,300.00","$62,000.00","$117,000.00","$160,000.00",Party
+Pennsylvania State University (PSU),Northeastern,49900.0,85700.0,"$46,300.00","$62,000.00","$117,000.00","$160,000.00",State
+University of Rhode Island (URI),Northeastern,43900.0,85300.0,"$45,400.00","$60,100.00","$112,000.00","$157,000.00",State
+Siena College,Northeastern,45500.0,85200.0,"$38,700.00","$58,400.00","$129,000.00","$189,000.00",Liberal Arts
+Rochester Institute of Technology (RIT),Northeastern,48900.0,84600.0,"$45,000.00","$62,100.00","$112,000.00","$159,000.00",Engineering
+State University of New York (SUNY) at Farmingdale,Northeastern,47300.0,84200.0,"$50,200.00","$59,800.00","$110,000.00","$162,000.00",State
+Smith College,Northeastern,44000.0,83900.0,"$45,100.00","$59,800.00","$129,000.00","$184,000.00",Liberal Arts
+University of Vermont (UVM),Northeastern,44800.0,82700.0,"$44,700.00","$58,000.00","$122,000.00","$194,000.00",State
+State University of New York (SUNY) at Buffalo,Northeastern,46200.0,81700.0,"$45,900.00","$61,400.00","$110,000.00","$147,000.00",State
+State University of New York (SUNY) at Geneseo,Northeastern,42300.0,81300.0,"$39,300.00","$47,600.00","$117,000.00","$173,000.00",State
+Ursinus College,Northeastern,42100.0,80000.0,"$35,600.00","$54,300.00","$100,000.00","$160,000.00",Liberal Arts
+University of New Hampshire (UNH),Northeastern,41800.0,78300.0,"$41,700.00","$56,400.00","$114,000.00","$147,000.00",Party
+University of New Hampshire (UNH),Northeastern,41800.0,78300.0,"$41,700.00","$56,400.00","$114,000.00","$147,000.00",State
+University of Massachusetts (UMass) - Boston,Northeastern,45600.0,78200.0,"$36,300.00","$53,800.00","$109,000.00","$151,000.00",State
+State University of New York (SUNY) at Oswego,Northeastern,38000.0,77800.0,"$40,400.00","$53,000.00","$115,000.00","$169,000.00",State
+University of Massachusetts (UMass) - Dartmouth,Northeastern,43200.0,77700.0,"$43,300.00","$56,200.00","$107,000.00","$132,000.00",State
+State University of New York (SUNY) at Oneonta,Northeastern,37500.0,76700.0,"$40,000.00","$54,300.00","$97,700.00","$155,000.00",State
+State University of New York (SUNY) at Plattsburgh,Northeastern,40800.0,76200.0,"$38,400.00","$54,100.00","$105,000.00","$136,000.00",State
+Penn State - Harrisburg,Northeastern,45700.0,74000.0,"$44,000.00","$53,100.00","$104,000.00","$150,000.00",State
+Fitchburg State College,Northeastern,42400.0,72600.0,"$43,300.00","$56,100.00","$99,600.00","$151,000.00",State
+University Of Maine,Northeastern,41200.0,72100.0,"$41,700.00","$55,600.00","$99,300.00","$141,000.00",State
+State University of New York (SUNY) at Potsdam,Northeastern,38000.0,70300.0,"$35,100.00","$51,200.00","$100,000.00","$179,000.00",State
+State University of New York (SUNY) at Fredonia,Northeastern,37800.0,66200.0,"$32,800.00","$44,200.00","$93,300.00","$181,000.00",State
+University of Southern Maine,Northeastern,39400.0,63600.0,"$40,400.00","$47,900.00","$85,700.00","$117,000.00",State
